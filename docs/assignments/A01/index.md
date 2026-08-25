@@ -2,7 +2,7 @@
 
 ## Analyze
 
-# Task A: Portfolio Analysis
+### Task A: Portfolio Analysis
 
 Portfolio #1: Maxwell Gonzalez (Canvas)
 This portfolio is laid out where everything is easy to find in a short amount of time. This portfolio does have remarkable documentation of his work. There are numerous pictures of the steps he took to get to the final product, and his description of every assignment is clear and thorough. Maxwell shows why he got to his conclusions with pictures of his work and detailed explanations on what he did. This portfolio is very professional with the only minor exception of the about me section. Here there is a little more of a biography of why he wanted to be an engineer instead of the professional statement that it was supposed to be. 
