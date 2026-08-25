@@ -38,6 +38,8 @@ In the pictures provided for the patent, there is a small extrusion out of one h
 
 ## Decide
 
+Homepage Identity:
+When anyone first opens up my website there should be three things that they should be able to find immediately. The first thing is my name and face; they need to be able to connect the information that is about to be read with a name and a face. The second thing is what is the reason for the portfolio. They need to know what they are about to read to ensure that it is the right thing they are looking for. Finally, they need to know how to navigate through my works and assignments with efficiency. 
 
 ## Communicate
 
