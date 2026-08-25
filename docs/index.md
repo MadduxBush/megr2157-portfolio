@@ -2,7 +2,9 @@
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
-This site is the working record of your engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what you built, but how and why you built it that way. Engineering documentation is a skill developed through deliberate practice. Each assignment is an opportunity to improve the precision, clarity, and professional quality of how you record and defend your work. As you progress through the semester your engineering capability will grow alongside your documentation — this portfolio is the record of that journey.
+This site is the working record of Maddux Bush's engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what I built, but how and why I built it that way. 
+
+<img width="2316" height="3088" alt="IMG_1783" src="https://github.com/user-attachments/assets/17ec5e5c-9807-4d4f-8412-3c18555558dd" />
 
 > **Engineering is the art of making decisions you can defend.**
 
@@ -22,4 +24,3 @@ Use the navigation on the left to move between assignments.
 - **Act II (Weeks 8–11):** Surveying the machine-element landscape and formally comparing options.
 - **Act III (Weeks 12–15):** Building the complete lead screw translating system.
 
-By A11, every design decision you defend should trace back to something you analyzed and communicated earlier in this site.
