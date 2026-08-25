@@ -27,7 +27,8 @@ Scissors Blade
 The blades are long, thin metal that is sharpened on the sides that meet each other. The sharpened metal concentrates the hands force which increases the local stress on material, ultimately allowing them to cut through it. 
 
 Scissors Handle holes
-<img width="3024" height="4032" alt="IMG_1776" src="https://github.com/user-attachments/assets/24971706-ebf7-4e51-bed9-c5e74cabbaaf" />
+<img width="3024" height="4032" alt="IMG_1779" src="https://github.com/user-attachments/assets/71446e99-474a-4818-8b49-f257aed807b0" />
+
 
 
 ## Communicate
