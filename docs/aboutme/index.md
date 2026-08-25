@@ -8,4 +8,5 @@ As I continue to be an engineering student at UNC Charlotte, I want to become so
 
 
 "What does it mean to defend an engineering decision: and do you currently know how to do it?"
+
 To me, defending an engineering decision means that you are able to back up your findings or statements with evidence and data that you collected through experiments and research. If my understanding of defending an engineering decision is correct, then I believe that I can do it. I am able to conduct my own research and experiments to find conclusions, and when someone asks me to defend my statements, I am confident that I could. 
