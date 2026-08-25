@@ -21,7 +21,13 @@ This model shows that the scissors operate like a lever system. The hand applies
 Scissors screw
 <img width="3024" height="4032" alt="IMG_1776" src="https://github.com/user-attachments/assets/004f00e7-41a4-47f7-b355-01e41c7463ea" />
 The screw acts as the pivot for the scissors. The circular design insures a smooth pivot of both the handles and blades when in use. The design also locks the blades and handles to be aligned with each other to ensure precise cuts every time. 
+
+Scissors Blade
 <img width="3024" height="4032" alt="IMG_1778" src="https://github.com/user-attachments/assets/7a0545df-0f1a-4cda-aa10-f162e924de48" />
+The blades are long, thin metal that is sharpened on the sides that meet each other. The sharpened metal concentrates the hands force which increases the local stress on material, ultimately allowing them to cut through it. 
+
+Scissors Handle holes
+<img width="3024" height="4032" alt="IMG_1776" src="https://github.com/user-attachments/assets/24971706-ebf7-4e51-bed9-c5e74cabbaaf" />
 
 
 ## Communicate
