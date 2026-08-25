@@ -34,6 +34,10 @@ The author of the patent for these scissors was Fiskars Oyj and the patent is US
 
 Alternatives devices that can perform similar tasks to the scissors are rotating blades, like a pizza cutter, or an oscillating tool, like a cast saw. 
 
+In the pictures provided for the patent, there is a small extrusion out of one handle that prevents the other handle from rotating too far. I think that this choice was made to ensure the user didn't pivot too much and damage the sharp blades by banging them on each other. 
+
+## Decide
+
 
 ## Communicate
 
