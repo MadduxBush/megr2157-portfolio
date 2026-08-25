@@ -2,16 +2,16 @@
 
 ## Analyze
 
-Task A: Portfolio Analysis
-
+**Task A: Portfolio Analysis
+**
 Portfolio #1: Maxwell Gonzalez (Canvas)
 This portfolio is laid out where everything is easy to find in a short amount of time. This portfolio does have remarkable documentation of his work. There are numerous pictures of the steps he took to get to the final product, and his description of every assignment is clear and thorough. Maxwell shows why he got to his conclusions with pictures of his work and detailed explanations on what he did. This portfolio is very professional with the only minor exception of the about me section. Here there is a little more of a biography of why he wanted to be an engineer instead of the professional statement that it was supposed to be. 
 
 Portfolio #2: Nhan Dang (GitHub)
 This portfolio has a lot of information on the home screen and is a little overwhelming. I would like to see a more simplistic home screen with tabs or folders that help condense his works into more an organized way. This document is filled with information about his studies and has numerous pictures that document every step of his processes. A colleague would have no problem recreating his works with this information. This portfolio has sections specifically for documenting his decision-making process that tells readers why and how he created the final products. Though the website is a little cluttered with information, all of it is formal and would most definitely impress an employer. 
 
-Task B: Product Analysis
-
+**Task B: Product Analysis
+**
 I chose to analyze Fiskars scissors. The primary function of this product is to use convert an applied hand force into a shearing force between the two blades so that material is cut. 
 
 The governing model for these scissors is torque. Torque = Force x distance (T=Fd)
@@ -22,13 +22,17 @@ Scissors screw
 <img width="3024" height="4032" alt="IMG_1776" src="https://github.com/user-attachments/assets/004f00e7-41a4-47f7-b355-01e41c7463ea" />
 The screw acts as the pivot for the scissors. The circular design insures a smooth pivot of both the handles and blades when in use. The design also locks the blades and handles to be aligned with each other to ensure precise cuts every time. 
 
-Scissors Blade
+Scissors blade
 <img width="3024" height="4032" alt="IMG_1778" src="https://github.com/user-attachments/assets/7a0545df-0f1a-4cda-aa10-f162e924de48" />
 The blades are long, thin metal that is sharpened on the sides that meet each other. The sharpened metal concentrates the hands force which increases the local stress on material, ultimately allowing them to cut through it. 
 
-Scissors Handle holes
+Scissors handle holes
 <img width="3024" height="4032" alt="IMG_1779" src="https://github.com/user-attachments/assets/71446e99-474a-4818-8b49-f257aed807b0" />
+The handles are far away from pivot, which allows the scissors to provide mechanical advantage to your hands, which makes it easier to cut. The finger holes provide a surface where your hand can apply the force that is needed to cut the materials. 
 
+The author of the patent for these scissors was Fiskars Oyj and the patent is USD267773S. The patent was granted on February 1, 1983.
+
+Alternatives devices that can perform similar tasks to the scissors are rotating blades, like a pizza cutter, or an oscillating tool, like a cast saw. 
 
 
 ## Communicate
