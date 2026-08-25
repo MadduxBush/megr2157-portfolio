@@ -10,6 +10,7 @@ This portfolio is laid out where everything is easy to find in a short amount of
 Portfolio #2: Nhan Dang (GitHub)
 This portfolio has a lot of information on the home screen and is a little overwhelming. I would like to see a more simplistic home screen with tabs or folders that help condense his works into more an organized way. This document is filled with information about his studies and has numerous pictures that document every step of his processes. A colleague would have no problem recreating his works with this information. This portfolio has sections specifically for documenting his decision-making process that tells readers why and how he created the final products. Though the website is a little cluttered with information, all of it is formal and would most definitely impress an employer. 
 
+
 **Task B: Product Analysis
 **
 I chose to analyze Fiskars scissors. The primary function of this product is to use convert an applied hand force into a shearing force between the two blades so that material is cut. 
@@ -36,6 +37,7 @@ Alternatives devices that can perform similar tasks to the scissors are rotating
 
 In the pictures provided for the patent, there is a small extrusion out of one handle that prevents the other handle from rotating too far. I think that this choice was made to ensure the user didn't pivot too much and damage the sharp blades by banging them on each other. 
 
+
 ## Decide
 
 Homepage Identity:
@@ -46,6 +48,7 @@ I added a picture of me to the front page of my website. As a reader when I see 
 
 Documentation Standard:
 For every assignment in this portfolio, I will have numerous pictures documenting my processes to ensure any fellow student can follow my work and end up with the same results as me. 
+
 
 ## Communicate
 
