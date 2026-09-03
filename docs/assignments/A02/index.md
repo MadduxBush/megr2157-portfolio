@@ -28,12 +28,22 @@ I then moduled the pin by extruding a circle of 9.33mm in diameter by 20mm.
 
 <img width="793" height="797" alt="image" src="https://github.com/user-attachments/assets/abe50a5f-17f6-4ac8-b416-055434ef7649" />
 
+Unfortunately, I could not find A500 structural steel in the materials list in Creo, the closes thing I found was just steel, so the measurements are very inaccurate compared to what I found. 
 
 <img width="1753" height="686" alt="image" src="https://github.com/user-attachments/assets/2ce02f76-dfc3-4f08-acb7-4fa1c643ba44" />
 
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
 ## Communicate
+During this assignment, I learned how to optimize the structure of a truss using geometry and load distribution. The calculation of the internal loads showed how optimizing structure ensures that every bar bears the stress and strains relatively equally instead of an extreme bias to one support or side. This assignment also showed the importance of safety factors, since they set the boundaries for the allowable stress. I also found that calculating the single shear stress that the pins underwent showed how the high strength material that it was made of allowed it to have a minimal corss-sectional pin area, while also reducing the truss's mass. 
 
+## Likelihood of Failure Modes in Truss Components
+# Part 1
+When it comes to the truss, I designed the compression members are prone to bucking, while the tension members are prone to yielding. A500 Steel is more ductile than it is brittle. For compression members I chose bucking as the most likely thing to happened because the beams of steel are very thin and this will fail under compression way before the yield stress. I chose yielding for the tensile loads because the truss is being pulled without lateral support and this will lead to plastic deformation. To prevent bucking and tensile yielding, use a stronger material that can withstand the constant compression.
+
+# Part 2
+The expected failure mode of pin is the direct single shear failure. I the Module 03 Truss Study of PressBooks, they have pictures and explain how shear failure in a pin is more common than other pin failures. If the single shear joint is replaced with a double shear connection, then the load would be across two planes, doubling the load capacity. 
+
+## Sources Cited 
+https://www.redriver.team/the-4-modes-of-failure/ 
+https://www.tottentubes.com/astm-a500-specification-information 
+https://www.linkedin.com/advice/0/what-most-common-methods-preventing-buckling-2omoc
+https://saalck.pressbooks.pub/structuralconceptsforarchitectsandconstructionmanagers/chapter/module-3-truss-study/
