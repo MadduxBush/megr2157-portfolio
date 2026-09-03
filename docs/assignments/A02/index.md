@@ -29,7 +29,8 @@ I then moduled the pin by extruding a circle of 9.33mm in diameter by 20mm.
 <img width="793" height="797" alt="image" src="https://github.com/user-attachments/assets/abe50a5f-17f6-4ac8-b416-055434ef7649" />
 
 
-<img width="1966" height="813" alt="image" src="https://github.com/user-attachments/assets/8ceeb507-9cc4-46b0-96f6-2308b8afcff4" />
+<img width="1753" height="686" alt="image" src="https://github.com/user-attachments/assets/2ce02f76-dfc3-4f08-acb7-4fa1c643ba44" />
+
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
