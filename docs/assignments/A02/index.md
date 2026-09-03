@@ -36,10 +36,10 @@ Unfortunately, I could not find A500 structural steel in the materials list in C
 During this assignment, I learned how to optimize the structure of a truss using geometry and load distribution. The calculation of the internal loads showed how optimizing structure ensures that every bar bears the stress and strains relatively equally instead of an extreme bias to one support or side. This assignment also showed the importance of safety factors, since they set the boundaries for the allowable stress. I also found that calculating the single shear stress that the pins underwent showed how the high strength material that it was made of allowed it to have a minimal corss-sectional pin area, while also reducing the truss's mass. 
 
 ## Likelihood of Failure Modes in Truss Components
-# Part 1
+### Part 1
 When it comes to the truss, I designed the compression members are prone to bucking, while the tension members are prone to yielding. A500 Steel is more ductile than it is brittle. For compression members I chose bucking as the most likely thing to happened because the beams of steel are very thin and this will fail under compression way before the yield stress. I chose yielding for the tensile loads because the truss is being pulled without lateral support and this will lead to plastic deformation. To prevent bucking and tensile yielding, use a stronger material that can withstand the constant compression.
 
-# Part 2
+### Part 2
 The expected failure mode of pin is the direct single shear failure. I the Module 03 Truss Study of PressBooks, they have pictures and explain how shear failure in a pin is more common than other pin failures. If the single shear joint is replaced with a double shear connection, then the load would be across two planes, doubling the load capacity. 
 
 ## Sources Cited 
