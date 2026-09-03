@@ -15,7 +15,7 @@ The first step for this project is to draw the truss that I want to build with t
 I first listed my knowns and unknowns to help determine what I needed to solve for. The truss is built with A500 structural steel, with a yield strength range from 235 MPa to 345 MPa, and since the instructions didn't specify the exact yield strength I chose 300 MPa. I then decided to solve for cross sectional area. This calculation then helped me with the weight calculation I did after.
 
 <img width="3019" height="1826" alt="IMG_1805" src="https://github.com/user-attachments/assets/2614d8ae-e9b3-4508-9619-01574f6f0c1e" />
-
+ 
 
 
 
