@@ -47,3 +47,5 @@ https://www.redriver.team/the-4-modes-of-failure/
 https://www.tottentubes.com/astm-a500-specification-information 
 https://www.linkedin.com/advice/0/what-most-common-methods-preventing-buckling-2omoc
 https://saalck.pressbooks.pub/structuralconceptsforarchitectsandconstructionmanagers/chapter/module-3-truss-study/
+
+This assignment took me around 12 hours to complete. 
