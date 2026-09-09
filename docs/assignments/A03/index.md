@@ -20,6 +20,7 @@ Material selected in SolidWorks was the aluminum 6061, the same one I used in my
 <img width="611" height="481" alt="image" src="https://github.com/user-attachments/assets/c3616a1f-f901-44e3-ad2d-9387acb1b7e5" />
 
 ### FEA Simulation
+
 ## Decide
 
 
