@@ -16,7 +16,7 @@ I first made my calculations of area, length, and weight of bar using given meas
 I first imported my equations and values into the global equation manager in SolidWorks. This allowed me to sketch a circle with dimensions that are linked with the diameter value in the global equation manager. I then extruded the circle by a length that was linked with the length equation used in the global equation manager. 
 <img width="1280" height="533" alt="image" src="https://github.com/user-attachments/assets/fea950ca-1bd4-4ab0-b360-853910b8e8a6" />
 
-Material selected in SolidWorks was the aluminum 6061, the same one I used in my calculations. 
+Material selected in SolidWorks was the aluminum 6061, the same one I used in my calculations, though the 
 <img width="611" height="481" alt="image" src="https://github.com/user-attachments/assets/c3616a1f-f901-44e3-ad2d-9387acb1b7e5" />
 
 
