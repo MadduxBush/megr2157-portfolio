@@ -35,9 +35,12 @@ I then went to the displacement chart, and this told me that the max axial defle
 The percent difference between the two is only 0.3%. This low percentage difference is expected since both my hand calculations and the CAD calculations used the same measurements and material properties. The small discrepancy could be caused by rounding errors or small differences in the material properties numbers. 
 <img width="3023" height="1018" alt="IMG_1821" src="https://github.com/user-attachments/assets/8f027cda-1d1d-4a1b-a12d-2cfc17fc64c2" />
 
+### Pin-Hole Stress
+The stress max that I calculated was only 1.6776ksi, while the new safety factor of the hole is 23.84. The max stress is significantly less than the safety factor so this means that the hole nor the bar will experience yield failure. 
+<img width="3023" height="1728" alt="IMG_1824" src="https://github.com/user-attachments/assets/9bd874b8-6135-4ea0-86d6-96dc8afc69bf" />
 
-## Decide
+## Lessons Learned
+After completing this assignment, the thing I learned most was how to use SolidWorks. I am now able to parametrically design and complete a FEA. There were a few mistakes using the parametric deign, but a few more YouTube videos helped me get the understand I needed to complete the assignment. This assignment took me 6 hours. 
 
-
-## Communicate
-
+## 2157 Student questions
+If load changed to 600lbs, and diameter changed to 2 inches, I would guess that the bar will have less of a stretch than my original tests since force only goes up by 33% while the diameter doubles. This theory is confirmed when plugging in the new values into SolidWorks. 
