@@ -44,3 +44,7 @@ After completing this assignment, the thing I learned most was how to use SolidW
 
 ## 2157 Student questions
 If load changed to 600lbs, and diameter changed to 2 inches, I would guess that the bar will have less of a stretch than my original tests since force only goes up by 33% while the diameter doubles. This theory is confirmed when plugging in the new values into SolidWorks. 
+
+## CAD Link
+Open CAD Design with this link: https://studentuncc-my.sharepoint.com/:u:/r/personal/mbush18_charlotte_edu/Documents/SoDesign/Part1.SLDPRT?d=wf67b47f07cf646a984d88019600d0fec&csf=1&web=1&e=vGrghy
+
