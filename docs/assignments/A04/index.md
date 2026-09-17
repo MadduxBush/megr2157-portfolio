@@ -30,5 +30,6 @@ I projected the three main views, and every view was dimensioned appropriately w
 
 ### CAD Links
 Part: https://studentuncc-my.sharepoint.com/:u:/r/personal/mbush18_charlotte_edu/Documents/SoDesign/A4%20SoDesign.SLDPRT?d=w42cc331a0faf461f82fac554ae38148f&csf=1&web=1&e=ZbcixK
+
 Drawing: https://studentuncc-my.sharepoint.com/:u:/r/personal/mbush18_charlotte_edu/Documents/SoDesign/A4%20SoDesign%20Drawing.SLDDRW?d=wd20b0febdaf049459bffb22d770ebed1&csf=1&web=1&e=UPBZFC
 
