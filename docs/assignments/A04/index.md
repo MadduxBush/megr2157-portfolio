@@ -18,8 +18,15 @@ Since I chose to keep the same length and width dimensions I used in feature 1, 
 ## Isometric view has dimensions of screw holes for feature two that I have chosen to work best for this design, with every other measurement labled as well.
 <img width="3024" height="4032" alt="IMG_1847" src="https://github.com/user-attachments/assets/78a0dcf2-1d91-498b-ad4a-eb026201af21" />
 
-## Decide
+## CAD
+To make this I first sketched the bottom of feature 1 then extruded. Then I added the body of feature two by sketching and extruding. Then cut appropriate size holes by sketching then extrude cutting on both features. 
+<img width="1059" height="774" alt="image" src="https://github.com/user-attachments/assets/4a99334b-deb1-4301-a4a3-29c6f11fb0e2" />
+## CAD Drawing
+I projected the three main views, and every view was dimensioned appropriately with internal holes shown as dotted lines. The only part I couldn't figure out was the isometric view. The one in my drawing is upside down to what I visioned in my head. In the bottom right, there is the needed information about the drawing.
+<img width="1371" height="974" alt="image" src="https://github.com/user-attachments/assets/d555fdc1-ac37-4ab3-bf24-ce92e0d683d2" />
 
 
-## Communicate
+### CAD Links
+Part: https://studentuncc-my.sharepoint.com/:u:/r/personal/mbush18_charlotte_edu/Documents/SoDesign/A4%20SoDesign.SLDPRT?d=w42cc331a0faf461f82fac554ae38148f&csf=1&web=1&e=ZbcixK
+Drawing: https://studentuncc-my.sharepoint.com/:u:/r/personal/mbush18_charlotte_edu/Documents/SoDesign/A4%20SoDesign%20Drawing.SLDDRW?d=wd20b0febdaf049459bffb22d770ebed1&csf=1&web=1&e=UPBZFC
 
