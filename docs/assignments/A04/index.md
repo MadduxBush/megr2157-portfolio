@@ -4,6 +4,7 @@
 Design a motor mount with two features taking account for yield strength and maximum deflection. For both features, the maximum deflection is 0.3mm, the safety factor is 3, and the material is ABS. After calculating all the dimensions, sketch the final design as an isometric view and 3D model it in SolidWorks.
 Image of the motor reference that was used for this project. 
 <img width="714" height="227" alt="image" src="https://github.com/user-attachments/assets/220a4681-0491-4893-9df0-c39c5ccc3624" />
+
 Image of what motor with the motor mount should look like.
 <img width="134" height="113" alt="image" src="https://github.com/user-attachments/assets/8de480a2-b582-4730-b607-1f4212d0893c" />
 
