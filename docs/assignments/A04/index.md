@@ -16,7 +16,8 @@ The motor body has a diameter of 22mm, so I chose my length and wide of feature 
 Since I chose to keep the same length and width dimensions I used in feature 1, no numbers were changed for the known parts from figure one to figure two, so this made the calculation process very similar to figure 1. The only difference was the location of the moment. After finding the thickness needed for both the strength and stiffness, I found that stiffness was once again bigger than strength, so I used 36.97mm as my thickness for figure 2.
 <img width="3024" height="4032" alt="IMG_1846" src="https://github.com/user-attachments/assets/86a4a62e-a726-4ef6-8cba-f311b3b4cab6" />
 
-## Isometric view has dimensions of screw holes for feature two that I have chosen to work best for this design, with every other measurement labled as well.
+## Isometric view 
+This hand draw isometric view has dimensions of screw holes for feature two that I have chosen to work best for this design, with every other measurement labeled as well.
 <img width="3024" height="4032" alt="IMG_1847" src="https://github.com/user-attachments/assets/78a0dcf2-1d91-498b-ad4a-eb026201af21" />
 
 ## CAD
