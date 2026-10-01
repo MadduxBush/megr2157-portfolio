@@ -27,3 +27,7 @@ The drawing was made by importing the bracket design and positioning the images 
 ## Reflection
 I learned how to edit and manipulate views in a drawing, and while I did struggle getting the bottom right hand of the drawing to be satisfactory, I finally got there in the end. 
 
+### CAD Part
+https://studentuncc-my.sharepoint.com/:u:/r/personal/mbush18_charlotte_edu/Documents/SoDesign/A6%20Part%20SoDesign.SLDPRT?d=wd67e7ba217964890a19b9214088d9d55&csf=1&web=1&e=KhiGlw
+### CAD Drawing
+https://studentuncc-my.sharepoint.com/:u:/r/personal/mbush18_charlotte_edu/Documents/SoDesign/A6%20Drawing%20SoDesign.SLDDRW?d=w10e5f5408ef74717ba63baa298f65c6a&csf=1&web=1&e=orUFYP 
